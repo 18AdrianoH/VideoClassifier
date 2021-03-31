@@ -128,7 +128,7 @@ krakenex==2.1.0
 krakenx==0.0.3
 langdetect==1.0.8
 lomond==0.3.3
-lxml==4.5.2
+lxml==4.6.3
 Mako==1.1.0
 Markdown==3.1
 MarkupSafe==1.1.1
